@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: #083B4C ;
+}
+
+section {
+    padding: 30px;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+h1 {
+    color: white;
+    font-weight: bolder;
+    font-size: 100px;
+    text-align: center;
+}
