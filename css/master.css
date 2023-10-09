@@ -44,3 +44,19 @@ h1 {
 .padding-right {
     margin-right: 20px;
 }
+
+.bg-blu {
+    background-color: blue;
+}
+
+.bg-aqua {
+    background-color: aquamarine;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-orange {
+    background-color: orange;
+}
