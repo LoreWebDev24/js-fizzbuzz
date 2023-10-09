@@ -15,9 +15,32 @@ section {
 
 }
 
+.container-big {
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    padding-top: 30px;
+    flex-wrap: wrap;
+    gap:20px;
+}
+
 h1 {
     color: white;
     font-weight: bolder;
     font-size: 100px;
     text-align: center;
+}
+
+.box {
+    background-color: orange;
+    flex-basis: 80px ;
+    height: 80px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.padding-right {
+    margin-right: 20px;
 }
